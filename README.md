@@ -9,7 +9,7 @@ The primary goal of this project was to create a website that would generate a r
 
 ## Instructions:
 
-Upload index.html, script.js, and style.css files to browser.
+Upload index.html and assets folder (contains script and stylesheet) to browser.
 
 ## Links:
 
