@@ -14,7 +14,7 @@ Upload index.html, script.js, and style.css files to browser.
 ## Links:
 
 - [Webpage](https://lornaburns.github.io/personal-portfolio/)
-- [Repository](https://github.com/lornaburns/personal-portfolio)
+- [Repository](https://github.com/lornaburns/password-generator)
 
 ## Use:
 
@@ -22,7 +22,7 @@ This webpage is responsive on a range of screen sizes. It can be used to generat
 
 ## Image:
 
-<img src="C:\bootcamp\homework\js-challenge\Develop\screenshot.png" alt="password generator" width="200"/>
+<img src="https://github.com/lornaburns/password-generator/blob/main/Develop/screenshot.png?raw=true" alt="password generator" width="200"/>
 
 ## Credits:
 
