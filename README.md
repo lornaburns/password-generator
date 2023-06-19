@@ -22,7 +22,7 @@ This webpage is responsive on a range of screen sizes. It can be used to generat
 
 ## Image:
 
-<img src="https://github.com/lornaburns/password-generator/blob/main/Develop/screenshot.png?raw=true" alt="password generator" width="200"/>
+<img src="https://github.com/lornaburns/password-generator/blob/main/assets/screenshot.png?raw=true" alt="password generator" width="200"/>
 
 ## Credits:
 
